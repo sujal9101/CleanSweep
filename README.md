@@ -11,3 +11,6 @@ Create a website to assist users in capturing images of garbage within their sur
 * Frontend: HTML, CSS, JavaScript
 * Backend: PHP
 * Contact Page: Web3
+
+## Code Execution:
+To run Cleansweep locally on your machine, you can utilize XAMPP's localhost environment. After downloading and installing XAMPP, simply place the Cleansweep files in the appropriate directory within the htdocs folder of your XAMPP installation directory. Then, start Apache and MySQL modules in XAMPP control panel, and access Cleansweep through your web browser by navigating to http://localhost/cleansweep
